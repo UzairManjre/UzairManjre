@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UzairManjre
-- 👀 I’m interested in C and PYTHON
+- 👀 I’m interested in C++ and PYTHON
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on HTML CSS C Python
+- 💞️ I’m looking to collaborate on HTML CSS C Python, c++
 - 📫 How to reach me Use my email --- uzairmanjre86@gmail.com
 
 <!---
