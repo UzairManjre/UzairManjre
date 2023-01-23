@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @UzairManjre
-- 👀 I’m interested in C++ and PYTHON
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on HTML CSS C Python, c++
-- 📫 How to reach me Use my email --- uzairmanjre86@gmail.com
+-Experienced programmer with a strong background in Python, C, and C++. Adept at developing efficient and effective code, with a keen interest in data science and machine learning.
 
-<!---
-UzairManjre/UzairManjre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:
+
+Proficient in Python, C, and C++
+Strong understanding of data structures and algorithms
+Experience with data science and machine learning libraries such as NumPy, Pandas, and Scikit-learn
+Familiarity with SQL and databases
+
+Personal Interests:
+
+Interested in learning and exploring new technologies related to data science and machine learning
+Passionate about solving real-world problems using data and technology.
+
+professional Goals:
+continue to advance my skills in data science and machine learning
+
+
+
+
